@@ -1,2 +1,2 @@
 # BestWork
-# Moslty Java code. Some games, apps and programs.
+# My favourite games, programs, I've coded in Java.
